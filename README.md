@@ -54,7 +54,3 @@ The **Flight Management System** is a **web-based application** designed to effi
 ## 👥 Contributors  
 👤 **Sharnit Saha** – Developer  
 
----
-
-## 🙌 Acknowledgments  
-Special thanks to **open-source contributors, developers, and aviation experts** for supporting this project! ✈️🌍  
